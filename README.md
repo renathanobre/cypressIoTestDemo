@@ -8,9 +8,7 @@ Introduction to automation testing with Cypress.io
 
 3)npm init
 
-4)
-
-Press ^C at any time to quit.
+4) Press ^C at any time to quit.
 package name: (cypresstest)
 version: (1.0.0)
 description: Test cypress working
