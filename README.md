@@ -3,8 +3,11 @@ Introduction to automation testing with Cypress.io
 
 --Command Prompt
 1)mkdir cypressTest
+
 2)cd cypressTest
+
 3)npm init
+
 4)
 
 Press ^C at any time to quit.
