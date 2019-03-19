@@ -1,7 +1,6 @@
-# my cypress.io project
+# my cypress.io demo project
 ![cypress-io-logo-social-share](https://user-images.githubusercontent.com/23301330/54577563-82939c00-49b9-11e9-9cca-95c70bec845a.png)
 
-- **My automation testing demo with Cypress.io**
 - ***IMPORTANT NOTES***
 
 --Command Prompt
